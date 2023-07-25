@@ -1,5 +1,5 @@
 import React from "react";
-import Banner from "../assets/banner.webp";
+import Banner from "../assets/banner.gif";
 
 const Hero = () => {
   return (
