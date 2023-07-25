@@ -41,7 +41,7 @@ const Mics = () => {
         </svg>
 
         <svg
-          width=""
+          width="auto"
           height="444"
           viewBox="0 0 959 444"
           fill="none"
