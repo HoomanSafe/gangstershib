@@ -1,9 +1,9 @@
 import React from "react";
-import Banner from "../assets/banner1.png";
+import Banner from "../assets/banner.webp";
 
 const Hero = () => {
   return (
-    <section className="py-36 w-full flex justify-center items-center min-h-screen">
+    <section className="py-36 w-full flex justify-center items-center min-h-screen bg-[#000] ">
       <div className="container flex justify-center items-center">
         <img src={Banner} alt="" />
       </div>
