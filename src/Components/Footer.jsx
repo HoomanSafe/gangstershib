@@ -9,7 +9,7 @@ const Footer = () => {
             JOIN OUR COMMUNITY
           </h1>
           <div className="flex justify-center md:justify-start items-center gap-6">
-            <a href="" target="_blank" className="">
+            <a href="https://t.me/RareXENTRY" target="_blank" className="">
               <svg
                 width="49"
                 height="49"
@@ -52,7 +52,7 @@ const Footer = () => {
                 </defs>
               </svg>
             </a>
-            <a href="" target="_blank" className="">
+            <a href="https://twitter.com/RAREXERC" target="_blank" className="">
               <svg
                 width="49"
                 height="49"
