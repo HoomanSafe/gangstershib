@@ -2,7 +2,28 @@ import React from "react";
 
 const Map = () => {
   return (
-    <section className="py-12 w-full relative">
+    <section className="pt-12 pb-32 w-full relative">
+      <svg
+        className="absolute bottom-0"
+        width="100%"
+        height="62"
+        viewBox="0 0 1440 62"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g clip-path="url(#clip0_1725_909)">
+          <path
+            d="M435.652 43.8652H-2V717H1442V13H1219.92L1187.41 43.8652H1032.86L999.347 13H466.162L435.652 43.8652Z"
+            stroke="#00F6FF"
+            stroke-width="2"
+          />
+        </g>
+        <defs>
+          <clipPath id="clip0_1725_909">
+            <rect width="1440" height="62" fill="white" />
+          </clipPath>
+        </defs>
+      </svg>
       <div className="w-[319px] h-[303px] absolute top-0 rotate-180 bg-teal-400 rounded-full blur-[200px]" />
       <div className="w-[319px] h-[303px] absolute top-0 right-0 rotate-180 bg-sky-400 rounded-full blur-[150px]" />
       <div className="container gap-8 flex justify-center items-center flex-col">
