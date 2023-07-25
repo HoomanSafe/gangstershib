@@ -43,7 +43,7 @@ const Header = () => {
             <a href="">roadmap</a>
           </li>
         </ul>
-        <a href="" className="hover:scale-90 transition">
+        <a href="https://t.me/RareXENTRY" className="hover:scale-90 transition">
           <svg
             width="192"
             height="56"
