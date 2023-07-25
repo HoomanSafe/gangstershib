@@ -7,7 +7,7 @@ const Map = () => {
       <div className="w-[319px] h-[303px] absolute top-0 right-0 rotate-180 bg-sky-400 rounded-full blur-[150px]" />
       <div className="container gap-8 flex justify-center items-center flex-col">
         <svg
-          width="358"
+          width="auto"
           height="91"
           className="z-10 relative"
           viewBox="0 0 358 91"
