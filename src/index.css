@@ -1,0 +1,6 @@
+@import url("https://fonts.cdnfonts.com/css/salutino");
+@import url("https://fonts.cdnfonts.com/css/gameria");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
