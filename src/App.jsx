@@ -13,7 +13,7 @@ const App = () => {
       <Hero />
       <About />
       <Mics />
-      <Map />
+      
       <Footer />
     </div>
   );
