@@ -1,5 +1,5 @@
 import React from "react";
-import Banner from "../assets/banner.gif";
+import Banner from "../assets/Gangstershiblogo-removebg-preview.png";
 
 const Hero = () => {
   return (
