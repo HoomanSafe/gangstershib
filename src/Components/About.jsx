@@ -1,5 +1,5 @@
 import React from "react";
-import Banner from "../assets/gangstershib.mp4";
+import Banner from "../assets/gangstershib.gif";
 
 const About = () => {
   return (
